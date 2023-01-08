@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 111,
+    "ChequeId": 0,
+    "Title": "Meatballs",
+    "Price": 11.59
+  },
+  {
+    "Id": 112,
+    "ChequeId": 0,
+    "Title": "Pasta",
+    "Price": 3.99
+  },
+  {
+    "Id": 113,
+    "ChequeId": 0,
+    "Title": "Steak",
+    "Price": 14.10
+  },
+  {
+    "Id": 114,
+    "ChequeId": 0,
+    "Title": "Pizza",
+    "Price": 9.99
+  },
+  {
+    "Id": 115,
+    "ChequeId": 0,
+    "Title": "Pumpkin Soup",
+    "Price": 2.50
+  },
+  {
+    "Id": 116,
+    "ChequeId": 0,
+    "Title": "Mushroom Soup",
+    "Price": 2.50
+  }
+]
